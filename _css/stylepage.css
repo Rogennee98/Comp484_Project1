@@ -77,6 +77,16 @@ h1{
 }
 
 
+.flowRight {
+	float: right;
+	margin-left: 10px;
+}
+.flowLeft {
+	float: left;
+	margin-right: 10px;
+}
+
+
 footer {
 	border-top: 1px solid gray;
 	text-align: center;
