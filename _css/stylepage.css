@@ -38,14 +38,14 @@ nav li{
   float: center;
 }
 
-li a{
+nav li a{
   display: block;
   color: white;
   padding: 9px 16px;
   text-decoration: none;
 }
 
-li a:hover{
+nav li a:hover{
  background-color: #111;
 }
 
