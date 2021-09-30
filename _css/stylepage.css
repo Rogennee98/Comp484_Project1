@@ -37,10 +37,11 @@ nav ul{
 
 img{
   box-shadow: 2px 2px 10px grey;
+  
 }
 
 img.characterImg{
-  vertical-align: top;
+
   margin-right: 1em;
 }
 
@@ -76,10 +77,12 @@ h2.mainchar{
   
 }
 
-/*h3.characterName{
-  display:inline;
-  
-}*/
+h3.characterName{
+ margin-bottom: 0em;
+padding: 0em;
+  font-size: 2em;
+
+}
 
 
 h4{
@@ -117,6 +120,8 @@ p {
   margin-top: 1em;
   padding-top: 1em;
 }
+
+
 
 
 
