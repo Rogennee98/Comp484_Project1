@@ -65,6 +65,12 @@ h2{
   padding-bottom: 0;
 }
 
+h2.mainchar{
+  font-size: 2em; 
+  text-align:left
+  
+}
+
 h4{
   margin-top: 0em;
   text-align:center;
