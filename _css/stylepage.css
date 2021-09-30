@@ -76,10 +76,11 @@ h2.mainchar{
   
 }
 
-h3.characterName{
+/*h3.characterName{
   display:inline;
   
-}
+}*/
+
 
 h4{
   margin-top: 0em;
@@ -117,10 +118,6 @@ p {
   padding-top: 1em;
 }
 
-p.nextChar{
-  
-  display:inline;
-}
 
 
 footer {
