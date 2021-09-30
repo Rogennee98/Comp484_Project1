@@ -90,6 +90,7 @@ h4{
   text-align:center;
   padding-bottom: 0;
   margin-bottom: 1em;
+  color: #85cccc; 
 }
 
 h1{
@@ -136,7 +137,9 @@ footer {
 }
 
 
-
+hr{
+   background-color: #85cccc;
+}
 
 
 
